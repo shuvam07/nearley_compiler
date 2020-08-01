@@ -12,9 +12,9 @@ Now after installation
 Go to any of the directory
 
 run<p>
-<b>nearleyc grammar.ne -o grammar.js </b>
+<b>nearleyc grammar.ne -o grammar.js </b> <p>
 to generate the Js parser
 
 followed by <p>
-<b>node parse.js </b> 
+<b>node parse.js </b> <p>
 to execute the result as fed to the parser in parse.js file. 
